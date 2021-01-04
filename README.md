@@ -1,2 +1,2 @@
-# react-native-scripts
+# React Native scripts
 React Native related helpful scripts
